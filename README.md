@@ -1,4 +1,4 @@
-### Hi, visitor! :wave:
+### Hi, my name is Michael! :wave:
 
 - 💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Kotlin 
