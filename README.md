@@ -1,5 +1,9 @@
 ### Hi, visitor! :wave:
 
-:envelope: [Mail me](mailto:Michael.Eder@liwest.at?subject=[GitHub]%20EnvyIT)   or       
-:handshake: [Get in touch](https://www.linkedin.com/in/michaeleder-se) 
+- 💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Kotlin 
+- 💬 Ask me about anything, I am happy to help
+- :handshake: [Get in touch](https://www.linkedin.com/in/michaeleder-se) 
+- :envelope: [Mail me](mailto:Michael.Eder@liwest.at?subject=[GitHub]%20EnvyIT)   
+ 
 
