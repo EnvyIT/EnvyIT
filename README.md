@@ -1,6 +1,6 @@
 ### Hi, my name is Michael! :wave:
 
-- 💻 I’m currently working on something cool :wink:
+- 💻 I’m currently working on multiple projects :wink:
 - 🌱 I’m currently learning Kotlin 
 - 💬 Ask me about anything, I am happy to help
 - :handshake: [Get in touch](https://www.linkedin.com/in/michaeleder-se) 
