@@ -1,9 +1,10 @@
 ### Hi, my name is Michael! :wave:
 
-- 💻 I’m currently working on multiple projects :wink:
-- 🌱 I’m currently learning Kotlin 
+- 🏢 At work I'm currently working with Kotlin, Spring, TypeScript, Angular, Postgre, Kafka, AWS
+- 💻 I’m currently working on multiple private projects :wink:
+- 📚 I’m currently reading Kotlin in Action
 - 💬 Ask me about anything, I am happy to help
 - :handshake: [Get in touch](https://www.linkedin.com/in/michaeleder-se) 
-- :envelope: [Mail me](mailto:Michael.Eder@liwest.at?subject=[GitHub]%20EnvyIT)   
+- :envelope: [Mail me](mailto:Michael.Eder@objectbay.com?subject=[GitHub]%20EnvyIT)   
  
 
