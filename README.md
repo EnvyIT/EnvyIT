@@ -1,8 +1,7 @@
 ### Hi, my name is Michael! :wave:
 
-- 🏢 At work I'm currently working with Spring, Kotlin, React, Postgres, Kafka, Azure
 - 💻 I am an advocate of readable, well-tested and clean code
-- 📚 Each day I try to get 1% better and improve my skills - currently exploring Azure and Micro-Frontends in depth
+- 📚 Each day I try to get 1% better and improve my skills - currently working with SolidJS
 - 💬 Ask me about anything, I am happy if I can help and make new friends
 - :handshake: [Get in touch](https://www.linkedin.com/in/michael-eder-se/) 
 - :envelope: [Mail me](mailto:Michael.Eder@objectbay.com?subject=[GitHub]%20EnvyIT)   
